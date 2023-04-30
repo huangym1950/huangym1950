@@ -113,11 +113,8 @@ graph TD;
     machine-learning-->Deployment;
    ```
    
- 
-
 
 <div align="center">
-    <!--
 <summary>Trophy: Hackerrank Profile Trophy</summary>
 </div>
 
@@ -128,13 +125,7 @@ width="30%">
 
 </p>
 
-
-
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-
- -->
-
 
 
 <!-- Belarus - My Home-->
@@ -163,10 +154,6 @@ width="30%">
 }
 
 ```
-
-
-
-
 
 
 <p align="center"> 
