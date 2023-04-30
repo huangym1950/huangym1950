@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://github.com/huangym1950/huangym1950"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/huangym1950/huangym1950/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/huangym1950/huangym1950/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/huangym1950/huangym1950/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <a href="https://github.com/huangym1950/huangym1950/graphs/contributors"><img src="https://img.shields.io/github/contributors/huangym1950/huangym1950?color=blue"></a>
+    <a href="https://github.com/huangym1950/huangym1950/stargazers"><img src="https://img.shields.io/github/stars/huangym1950/huangym1950.svg?logo=github"></a>
+    <a href="https://github.com/huangym1950/huangym1950/network/members"><img src="https://img.shields.io/github/forks/huangym1950/huangym1950.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=huangym1950.huangym1950" alt="visitors"/>   
 </p>
 
 <!--   my-header-img -->
