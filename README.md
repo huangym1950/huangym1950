@@ -165,7 +165,7 @@ width="30%">
 ```
 
 
-
+ -->
 
 
 
@@ -174,7 +174,7 @@ width="30%">
 <img src="./src/ibm_badges_credly.png" alt="ibm" width="100%">
 
 </p>
- -->
+
 
 
 #### Thanks for visiting :heart:
