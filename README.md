@@ -117,6 +117,7 @@ graph TD;
 
 
 <div align="center">
+    <!--
 <summary>Trophy: Hackerrank Profile Trophy</summary>
 </div>
 
@@ -173,7 +174,7 @@ width="30%">
 <img src="./src/ibm_badges_credly.png" alt="ibm" width="100%">
 
 </p>
-
+ -->
 
 
 #### Thanks for visiting :heart:
